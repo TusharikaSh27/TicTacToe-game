@@ -24,3 +24,18 @@ This is a simple console-based version created as part of my journey into java b
 
 
 -----
+
+### How To Run
+
+1. Clone the repository:
+```bash
+
+git clone https://github.com/tusharikash2706/TicTacToe-game.git
+cd TicTacToe-game 
+
+
+```
+
+2. Open the project in IntelliJ or any other java IDE
+3. Run the Main.java file
+4. Play the game in the console!
