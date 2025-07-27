@@ -7,7 +7,7 @@ public class main {
             }
         }
 
-        chat player='X';
+        char player='X';
         boolean gameOver=false;
         Scanner scanner = new Scanner(System.in);
 
@@ -28,7 +28,7 @@ public class main {
                     System.out.println("Player"+ player + "has won: ");
                 }
                 else{
-                    i//f(player =='X'){
+                    //f(player =='X'){
                        // player='0';
                    // }else{
                       //   player='X;'//
@@ -54,7 +54,7 @@ public class main {
             return true;
         }
     }
-    //check rows
+    //check cols
 for(int col=0;col<board[].length;col++){
         for(board[0][col]==player && board[1][col]==player && board[2][col]==player)
         return true;
